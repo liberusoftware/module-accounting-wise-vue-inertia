@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-wise-vue-inertia",
+  "capabilityKey": "liberusoftware/module-accounting-wise",
+  "presentation": "laravel-inertia-vue",
+  "package": "@liberusoftware/module-accounting-wise-vue-inertia",
+  "foundation": "module-boilerplate-vue-inertia",
+  "foundationCommit": "08a9dc0d2b45a95f966c7dcb8d47db96dee957d2",
+  "canonicalPlan": "projects/accounting/nextjs/accounting-wise.md",
+  "presentationPlan": "projects/accounting/vue/accounting-wise.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
